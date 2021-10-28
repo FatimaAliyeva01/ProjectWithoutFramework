@@ -9,6 +9,7 @@
 
 # Layihəni yazarkən istifadə etdiyim qaynaqlar və package-lərin siyahısı.
 
-" https://docs.python.org/3/library/tkinter.html"
-" https://copyassignment.com/tkinter-login-gui-with-hiding-password/"
-" https://realpython.com/python-gui-tkinter/"
+1.https://docs.python.org/3/library/tkinter.html"
+2.https://copyassignment.com/tkinter-login-gui-with-hiding-password/"
+3. https://realpython.com/python-gui-tkinter/"
+4. https://www.simplifiedpython.net/python-gui-login/
